@@ -67,7 +67,3 @@ As dependências do projeto estão listadas no arquivo `requirements.txt`. Inclu
 - **pandas**: Manipulação de dados.
 - **matplotlib**: Visualização de gráficos.
 - **requests**: Requisições HTTP para a API do GitHub.
-
-## Observações
-
-Certifique-se de configurar um token de acesso para a API do GitHub se estiver realizando muitas requisições. Para mais informações, veja a [documentação da API do GitHub](https://docs.github.com/en/rest).

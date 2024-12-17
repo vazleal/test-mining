@@ -9,8 +9,6 @@
   - A ausência de boas práticas pode levar a falhas críticas e instabilidade no software.
   - Estratégias robustas trazem eficiência, confiança e escalabilidade.
 
----
-
 ### **2. Objetivo Geral e Específicos do POC I**
 - **Objetivo Geral:** Investigar práticas e estratégias de teste em projetos open-source colaborativos.
 - **Objetivos do POC I:**
@@ -18,8 +16,6 @@
   - Analisar **issues** e **pull requests** rotulados como "tests" para entender problemas comuns.
   - Mapear diferenças nas práticas entre projetos de diferentes portes.
   - Consolidar os dados em um relatório analítico.
-
----
 
 ### **3. Metodologia e Andamento**
 - **Etapas Realizadas:**
@@ -31,8 +27,6 @@
 - **Ferramentas:** 
   - GitHub e ferramentas de análise, como métricas de cobertura de teste e automação.
 
----
-
 ### **4. Resultados Parciais**
 - **Insights Iniciais:**
   - Identificação de lacunas significativas na documentação de testes.
@@ -41,13 +35,9 @@
   - Etapas de coleta de dados e análises quantitativas foram concluídas.
   - Análise qualitativa em andamento.
 
----
-
 ### **5. Contribuição e Relevância**
 - **Impacto Esperado:** Criar diretrizes e ferramentas que melhorem a qualidade e a eficiência dos testes em projetos open-source.
 - **Diferencial:** Enfoque amplo, analisando múltiplos projetos para gerar recomendações práticas e acessíveis para a comunidade.
-
----
 
 ### **6. Próximos Passos**
 - Concluir a análise qualitativa e identificar padrões recorrentes.
